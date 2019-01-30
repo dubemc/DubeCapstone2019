@@ -9,4 +9,7 @@ data.head()
 
 """Cites:
   -https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
+  --> For code 
+  -https://stackoverflow.com/questions/36326544/python-shell-import-pandas
+  --> Import error help for Pandas
   """
