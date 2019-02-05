@@ -1,10 +1,16 @@
 
 import pandas as pd
 #reads csv of January 2018 data
-data = pd.read_csv("JanuaryData.csv")
+
+pd.set_option('display.max_rows', 1000)
+pd.set_option('display.max_columns', 10)
+pd.set_option('display.max_colwidth', 1000)
+pd.set_option('display.width', None)
+
+data = pd.read_csv("~/desktop/januaryData.csv")
 
 #default n=5, so it will only print 5 rows of data
-data.head()
+print(data)
 
 
 """Cites:
@@ -12,4 +18,6 @@ data.head()
   --> For code 
   -https://stackoverflow.com/questions/36326544/python-shell-import-pandas
   --> Import error help for Pandas
+  - https://www.youtube.com/watch?v=uIcime2nBjs
+  --> printing all rows in data frame
   """
