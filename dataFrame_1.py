@@ -7,7 +7,7 @@ pd.set_option('display.max_columns', 10)
 pd.set_option('display.max_colwidth', 1000)
 pd.set_option('display.width', None)
 
-data = pd.read_csv("~/desktop/januaryData.csv")
+data = pd.read_csv("DubeCapstone2019/JanuaryData.csv")
 
 #default n=5, so it will only print 5 rows of data
 print(data)
