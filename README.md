@@ -24,9 +24,7 @@ anonymous. By clicking the "Calculate Now" button, you agree to
 InsulCalc's disclaimer. 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### [Calculate Now]()
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dubemc/DubeCapstone2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
