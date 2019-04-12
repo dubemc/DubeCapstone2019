@@ -1,6 +1,6 @@
 ## [About](https://dubemc.github.io/DubeCapstone2019/about.md) - [Data](https://dubemc.github.io/DubeCapstone2019/data.md) - [Calculate](https://dubemc.github.io/DubeCapstone2019/calculate.md) - [Resources](https://dubemc.github.io/DubeCapstone2019/resources.md) - [Contact](https://dubemc.github.io/DubeCapstone2019/contact.md)
 
-## ![InsulCalcLogo](https://github.com/dubemc/DubeCapstone2019/blob/master/InsulCalcLogoOpaque.png?raw=true){:height="100px"} InsulCalc
+## ![InsulCalcLogo](https://github.com/dubemc/DubeCapstone2019/blob/master/InsulCalcLogoOpaque.png?raw=true){:height="50px"} InsulCalc
 
 InsulCalc, the Insulin Calculator for Type 1 Diabetics, was created to have the user input their glucose at a certain time, then get an output of the amount of insulin needed to level that glucose. This product is supposed to help a Diabetic make their levels less varied (i.e. many hyperglycemic and hypoglycemic episodes.) While this is supposed to help with research on Diabetes, it is not a certified medical tool to treat or help with it. 
 
