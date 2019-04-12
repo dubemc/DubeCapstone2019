@@ -33,8 +33,8 @@ InsulCalc's disclaimer.
 
 ### [Calculate Now]()
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dubemc/DubeCapstone2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Click to calculate Insulin intake!
 
-### Support or Contact
+### More Information
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you would like to see how I collected the data or how the data was used, click on the [Data tab.](https://dubemc.github.io/DubeCapstone2019/data.md) For more information, check [my resources](https://dubemc.github.io/DubeCapstone2019/resources.md) or [contact me.](https://dubemc.github.io/DubeCapstone2019/contact.md)
