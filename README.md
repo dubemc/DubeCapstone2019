@@ -1,4 +1,4 @@
-## [About](https://dubemc.github.io/DubeCapstone2019/about.md) - [Data](https://dubemc.github.io/DubeCapstone2019/data.md) - [Calculate](https://dubemc.github.io/DubeCapstone2019/calculate.md) - [Resources](https://dubemc.github.io/DubeCapstone2019/resources.md) - [Contact](https://dubemc.github.io/DubeCapstone2019/contact.md)
+## [About](https://dubemc.github.io/DubeCapstone2019/README) - [Data](https://dubemc.github.io/DubeCapstone2019/data) - [Calculate](https://dubemc.github.io/DubeCapstone2019/calculate) - [Resources](https://dubemc.github.io/DubeCapstone2019/resources) - [Contact](https://dubemc.github.io/DubeCapstone2019/contact)
 
 ## ![InsulCalcLogo](https://github.com/dubemc/DubeCapstone2019/blob/master/InsulCalcLogoOpaque.png?raw=true){:height="50px"} InsulCalc
 
