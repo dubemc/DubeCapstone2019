@@ -6,6 +6,8 @@ logo: InsulCalcLogoOpaque.png
 background-image: InsulCalcBG.jpg
 ---
 
+## [About](https://dubemc.github.io/DubeCapstone2019/README) - [Data](https://dubemc.github.io/DubeCapstone2019/data) - [Calculate](https://dubemc.github.io/DubeCapstone2019/calculate) - [Resources](https://dubemc.github.io/DubeCapstone2019/resources) - [Contact](https://dubemc.github.io/DubeCapstone2019/contact)
+
 # Calculate Your Insulin Dosage
 
 ### DISCLAIMER
