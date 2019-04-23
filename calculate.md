@@ -29,4 +29,4 @@ cause personal injury. All data inputted into this system is entirely
 anonymous. By clicking the "Calculate Now" button, you agree to 
 InsulCalc's disclaimer. 
 ```
-
+[Here's where you can calculate.](http://localhost:8889/lab/tree/insulCalc.ipynb)
