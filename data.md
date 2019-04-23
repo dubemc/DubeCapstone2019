@@ -31,17 +31,20 @@ cause personal injury. All data inputted into this system is entirely
 anonymous. By clicking the "Calculate Now" button, you agree to 
 InsulCalc's disclaimer. 
 ```
-#Graphs of the Data
+# Graphs of the Data
 Before we get into this, all graphs displayed below show the Original Insulin Intake vs. the Predicted Insulin Intake for the different models. The Mean Squared Error is the potential error of the model; the closer the model's predictions are to a line, the more accurate the model is. 
 
 ## Linear Regression
 ![LinearReg](https://github.com/dubemc/DubeCapstone2019/blob/master/Screen%20Shot%202019-04-23%20at%2010.28.58%20AM.png)
+
 Learn more about Linear Regression [here.](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
 
 ## Multilayer Perceptron
 ![MLP](https://github.com/dubemc/DubeCapstone2019/blob/master/Screen%20Shot%202019-04-23%20at%2010.29.12%20AM.png)
+
 Learn more about Multilayer Perceptron [here.](http://deeplearning.net/tutorial/mlp.html)
 
 ## Random Forest Regressor
 ![RandForReg](https://github.com/dubemc/DubeCapstone2019/blob/master/Screen%20Shot%202019-04-23%20at%2010.29.24%20AM.png)
+
 Learn more about Random Forest Regression [here.](https://turi.com/learn/userguide/supervised-learning/random_forest_regression.html)
