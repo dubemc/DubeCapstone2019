@@ -17,6 +17,7 @@ Here's some of my documentation for the project:
 * [Project Links and Notes](https://docs.google.com/document/d/1ryutSkcHd7yt_lE_QiC6BU5dLujwBfbEqZq31muk2OI/edit?usp=sharing)
 
 If you would like to give feedback, please [contact me.](https://dubemc.github.io/DubeCapstone2019/contact)
+### Resources will be updated when I continue my research in college. 
 
 
 
