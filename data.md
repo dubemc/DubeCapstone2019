@@ -12,6 +12,9 @@ background-image: InsulCalcBG.jpg
 For this project, I specifically used my mother's data that she kept logged in a journal. I had to input this data by hand into a spreadsheet. All the data was validated (and cross-validated) and calculations were made from that data in order to make a more accurate prediction for the Insulin intake. The data I used from her journal includes the date, time, glucose, insulin intake, menstrual data, and sick days. 
 My mother is a Type 1 diabetic, so I'm not sure that the calculator would work the same for Type 2 diabetics. (Huge thank you to my mother for her help!)
 
+## What the graph usually looks like:
+![Normal Diabetic Graph](https://selcoutheye.weebly.com/uploads/1/0/8/6/108670603/sphx-glr-plot-ols-001_orig.png)
+
 ### DISCLAIMER
 ```markdown
 NOTICE OF RISK. InsulCalc can at times involve substantial risk of 
@@ -35,16 +38,16 @@ InsulCalc's disclaimer.
 Before we get into this, all graphs displayed below show the Original Insulin Intake vs. the Predicted Insulin Intake for the different models. The Mean Squared Error is the potential error of the model; the closer the model's predictions are to a line, the more accurate the model is. 
 
 ## Linear Regression
-![LinearReg](https://github.com/dubemc/DubeCapstone2019/blob/master/Screen%20Shot%202019-04-23%20at%2010.28.58%20AM.png)
+![LinearReg](https://selcoutheye.weebly.com/uploads/1/0/8/6/108670603/screen-shot-2019-04-23-at-10-28-58-am_orig.png)
 
 Learn more about Linear Regression [here.](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
 
 ## Multilayer Perceptron
-![MLP](https://github.com/dubemc/DubeCapstone2019/blob/master/Screen%20Shot%202019-04-23%20at%2010.29.12%20AM.png)
+![MLP](https://selcoutheye.weebly.com/uploads/1/0/8/6/108670603/screen-shot-2019-04-23-at-10-29-12-am_orig.png)
 
 Learn more about Multilayer Perceptron [here.](http://deeplearning.net/tutorial/mlp.html)
 
 ## Random Forest Regressor
-![RandForReg](https://github.com/dubemc/DubeCapstone2019/blob/master/Screen%20Shot%202019-04-23%20at%2010.29.24%20AM.png)
+![RandForReg](https://selcoutheye.weebly.com/uploads/1/0/8/6/108670603/screen-shot-2019-04-23-at-10-29-24-am_orig.png)
 
 Learn more about Random Forest Regression [here.](https://turi.com/learn/userguide/supervised-learning/random_forest_regression.html)
