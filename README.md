@@ -26,7 +26,7 @@ anonymous. By clicking the "Calculate Now" button, you agree to
 InsulCalc's disclaimer. 
 ```
 
-### [Calculate Now](https://dubemc.github.io/DubeCapstone2019/contact)
+### [Calculate Now](https://dubemc.github.io/DubeCapstone2019/calculate)
 
 Click to calculate Insulin intake!
 
